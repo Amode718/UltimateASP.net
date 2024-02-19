@@ -1,0 +1,2 @@
+2024-02-18 22:39:37.8902 ERROR Something went wrong: The company with id: c9d4c053-49b6-410c-bc78-2d54a9991873 doesn't exist in thedatabase.
+2024-02-18 22:43:04.3996 ERROR Something went wrong: Employee with id: 86dba8c0-d178-41e7-938c-ed49778fb52c doesn't exist in the database.
